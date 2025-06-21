@@ -161,3 +161,6 @@ Happy coding and thank you for using WhisperBox!
 
 
 
+
+# Whisper
+This is an anonymous chat application
